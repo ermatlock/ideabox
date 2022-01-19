@@ -17,10 +17,10 @@ Try it out!
 
 ### Instructions
 
-The website can be viewed [here](https://lswatson16.github.io/ideabox/).
+The website can be viewed [here](https://ermatlock.github.io/ideabox/).
 
 To download the repository:
-- Clone the [repository](https://github.com/lswatson16/ideabox) to your local machine
+- Clone the [repository](https://github.com/ermatlock/ideabox) to your local machine
 - `cd` into the project
 
 ## Adding Ideas
@@ -84,6 +84,6 @@ Lauralyn Watson https://github.com/lswatson16
 
 ## Links:
 
-Deploy link: https://lswatson16.github.io/ideabox/
+Deploy link: https://ermatlock.github.io/ideabox/
 
-Repo link: https://github.com/lswatson16/ideabox
+Repo link: https://github.com/ermatlock/ideabox
